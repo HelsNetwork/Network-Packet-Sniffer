@@ -1,5 +1,5 @@
 # Network-Packet-Sniffer
-
+This is a network packet sniffer developed in Python 3.
 
 
 ## Usage
