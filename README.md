@@ -1,5 +1,7 @@
 # Network-Packet-Sniffer
-This is a network packet sniffer developed in Python 3.
+This network packet sniffer uses the raw socket type to capture packets.
+
+
 
 
 ## Usage
